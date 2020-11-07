@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=costel-dev&theme=vue&show_icons=true">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=costel-dev&theme=vue&layout=compact">
