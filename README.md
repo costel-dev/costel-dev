@@ -3,7 +3,7 @@
 ### Hi there, I'm Costel 👋
 
 ## ABOUT ME
-I am a Javascript Developer that focuses on Front-end librarys and frameworks such as React and Vue in Agile and Kanban settings. I have a passion for Design Systems, Web Accessibility and Serverless Technologies such aas AWS and Google Cloud. To grow and improve my skills I focus on building JAM(Javascript, API's Mark Up) and MERN(MongoDB, Express, React, Node) stack applications. 
+I am a Javascript Developer that focuses on Front-end librarys and frameworks such as React and Vue in Agile and Kanban settings. I have a passion for Design Systems, Web Accessibility and Serverless Technologies such as AWS and Google Cloud. To grow and improve my skills I focus on building JAM(Javascript, API's Mark Up) and MERN(MongoDB, Express, React, Node) stack applications. 
 
 <!--
 **costel-dev/costel-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
