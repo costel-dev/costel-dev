@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## MY GIT STATS
 <img src="https://github-readme-stats.vercel.app/api?username=costel-dev&theme=vue&show_icons=true">
 
+## MY TOP LANGUAGES
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=costel-dev&theme=vue&layout=compact">
