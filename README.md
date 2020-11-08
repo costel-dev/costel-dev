@@ -1,3 +1,5 @@
+<img align="center" src="https://raw.githubusercontent.com/costel-dev/costel-dev/main/mern_stack.png"/>
+
 ### Hi there, I'm Costel 👋
 
 <!--
