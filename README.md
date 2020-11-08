@@ -5,13 +5,16 @@
 ## ABOUT ME
 I am a Javascript Developer that focuses on Front-end librarys and frameworks such as React and Vue in Agile and Kanban settings. I have a passion for Design Systems, Web Accessibility and Serverless Technologies such as AWS and Google Cloud. To grow and improve my skills I focus on building JAM(Javascript, API's Mark Up) and MERN(MongoDB, Express, React, Node) stack applications. 
 
+
+- 🔭 I’m currently working on a fake e-commerce website using React, Redux, Firebase, Stripe and GraphQL to improve my skills
+- 🌱 Also I’m currently learning Vue framework 
+
 <!--
 **costel-dev/costel-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
