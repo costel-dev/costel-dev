@@ -6,7 +6,7 @@
 I am a Javascript Developer that focuses on Front-end librarys and frameworks such as React and Vue in Agile and Kanban settings. I have a passion for Design Systems, Web Accessibility and Serverless Technologies such as AWS and Google Cloud. To grow and improve my skills I focus on building JAM(Javascript, API's Mark Up) and MERN(MongoDB, Express, React, Node) stack applications. 
 
 
-- 🔭 I’m currently working on a fake e-commerce website using React, Redux, Firebase, Stripe and GraphQL to improve my skills
+- 🔭 I’m currently working on a 20 days project, building one project per day with only HTML5, CSS3 and vanilla JavaScript
 - 🌱 Also I’m currently learning Vue framework 
 
 <!--
