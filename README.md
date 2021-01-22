@@ -6,7 +6,7 @@
 I am a Javascript Developer that focuses on Front-end librarys and frameworks such as React and Vue in Agile and Kanban settings. I have a passion for Design Systems, Web Accessibility and Serverless Technologies such as AWS and Google Cloud. To grow and improve my skills I focus on building JAM(Javascript, API's Mark Up) and MERN(MongoDB, Express, React, Node) stack applications and the mew hype MEVN(MongoDB, Express, Vue, Node) stack. 
 
 
-- 🔭 I’m currently working on PlayMe App, an app that let's store your favorite songs and build your playlist using VueJS
+- 🔭 I’m currently working on a PlayMe App, an app that let's store your favorite songs and build your playlist using VueJS and Firebase
 - 🌱 Also I’m currently learning Vue framework 
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/costel-cuconoiu/
 
